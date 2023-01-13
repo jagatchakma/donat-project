@@ -1,0 +1,46 @@
+body {
+    /* background-color: red; */
+    margin: 0;
+}
+
+main section {
+    margin: 130px 157px;
+
+}
+
+/* header */
+header {
+    /* background-image: url(../images/banner.png); */
+
+    background: linear-gradient(to top, rgb(0, 0, 0)10%, rgba(119, 118, 118, 0.11)), url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 175px 300px;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 66px;
+    color: white;
+}
+
+header p {
+    font-size: 18px;
+    color: white;
+    margin: 20px 0;
+}
+
+header button {
+    padding: 10px 20px;
+    color: white;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 5px;
+}
+
+/* donate today section */
+
+.donate {
+    text-align: center;
+}
